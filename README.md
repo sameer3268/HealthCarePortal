@@ -1,4 +1,4 @@
-#  Healthcare Wellness & Preventive Care Portal  
+# Healthcare Wellness & Preventive Care Portal  
 **Full-Stack Application — Pre-Development README**
 
 A planned full-stack healthcare portal built using **ReactJS**, **Node.js + Express.js**, **MongoDB**, and **JWT authentication**.  
@@ -61,8 +61,7 @@ This README outlines the architecture, features, and development plan before imp
 ##  Tech Stack
 
 ### **Frontend**
-- ReactJS 18  
-- React Router  
+- ReactJS 
 - Axios for HTTP requests  
 - CSS Modules / Tailwind CSS  
 - Context API for authentication  
@@ -75,8 +74,12 @@ This README outlines the architecture, features, and development plan before imp
 - dotenv for configuration  
 
 ### **Database**
-- MongoDB (MongoDB Atlas recommended)  
-- Mongoose ORM  
+- MongoDB
+
+
+---
+
+##  Project Structure (Planned)
 
 ## Project Structure
 
@@ -113,6 +116,9 @@ healthcare-portal/
     └── package.json
 
 
+```
+---
+
 ##  API Endpoints (Planned)
 
 ### **Authentication**
@@ -132,7 +138,7 @@ healthcare-portal/
 
 ---
 
-## 🔧 Environment Variables (Backend)
+## Environment Variables (Backend)
 
 
 ---
@@ -173,4 +179,3 @@ healthcare-portal/
 > The project has not yet been built; this document defines the planned features, architecture, and development flow.
 
 ---
-
