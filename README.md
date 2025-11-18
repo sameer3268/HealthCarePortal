@@ -1,4 +1,4 @@
-# 🏥 Healthcare Wellness & Preventive Care Portal  
+# Healthcare Wellness & Preventive Care Portal  
 **Full-Stack Application — Pre-Development README**
 
 A planned full-stack healthcare portal built using **ReactJS**, **Node.js + Express.js**, **MongoDB**, and **JWT authentication**.  
@@ -117,7 +117,7 @@ healthcare-portal/
     └── package.json
 
 
-
+```
 ---
 
 ##  API Endpoints (Planned)
@@ -139,7 +139,7 @@ healthcare-portal/
 
 ---
 
-## 🔧 Environment Variables (Backend)
+## Environment Variables (Backend)
 
 
 ---
