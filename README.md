@@ -84,29 +84,29 @@ This README outlines the architecture, features, and development plan before imp
 
 healthcare-portal/
 ├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── Login.jsx
-│ │ │ ├── Register.jsx
-│ │ │ ├── PatientDashboard.jsx
-│ │ │ ├── ProviderDashboard.jsx
-│ │ │ ├── Profile.jsx
-│ │ │ └── ProtectedRoute.jsx
-│ │ ├── contexts/
-│ │ │ └── AuthContext.jsx
-│ │ ├── services/
-│ │ │ └── api.js
-│ │ └── App.jsx
-│ └── package.json
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Login.jsx
+│   │   │   ├── Register.jsx
+│   │   │   ├── PatientDashboard.jsx
+│   │   │   ├── ProviderDashboard.jsx
+│   │   │   ├── Profile.jsx
+│   │   │   └── ProtectedRoute.jsx
+│   │   ├── contexts/
+│   │   │   └── AuthContext.jsx
+│   │   ├── services/
+│   │   │   └── api.js
+│   │   └── App.jsx
+│   └── package.json
 │
 ├── backend/
-│ ├── models/
-│ ├── controllers/
-│ ├── routes/
-│ ├── middleware/
-│ │ └── auth.js
-│ ├── server.js
-│ └── package.json
+│   ├── models/
+│   ├── controllers/
+│   ├── routes/
+│   ├── middleware/
+│   │   └── auth.js
+│   ├── server.js
+│   └── package.json
 │
 └── README.md
 
