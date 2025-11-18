@@ -6,9 +6,9 @@ This README outlines the architecture, features, and development plan before imp
 
 ---
 
-## 🌿 Features (Planned)
+##  Features (Planned)
 
-### ✅ Authentication System
+###  Authentication System
 - User Registration (Patient & Provider)
 - Secure Login using JWT tokens
 - Password Hashing with bcrypt
@@ -17,7 +17,7 @@ This README outlines the architecture, features, and development plan before imp
 
 ---
 
-### ✅ Patient Dashboard
+###  Patient Dashboard
 - Track wellness goals (steps, water intake, sleep hours)
 - Preventive checkup alerts
 - Upcoming examinations overview
@@ -26,7 +26,7 @@ This README outlines the architecture, features, and development plan before imp
 
 ---
 
-### ✅ Provider Dashboard
+###  Provider Dashboard
 - Monitor assigned patients
 - Track preventive checkup compliance
 - View patient wellness logs
@@ -34,7 +34,7 @@ This README outlines the architecture, features, and development plan before imp
 
 ---
 
-### ✅ Profile Management
+###  Profile Management
 - Edit personal details  
 - Maintain health-related info (allergies, medications)
 - Update wellness goals  
@@ -42,14 +42,14 @@ This README outlines the architecture, features, and development plan before imp
 
 ---
 
-### 📘 Public Health Page
+###  Public Health Page
 - Preventive health awareness  
 - General wellness guidelines  
 - Privacy & data usage information  
 
 ---
 
-### 🔒 Security & Privacy  
+### Security & Privacy  
 - JWT session authentication  
 - Hashed passwords (bcrypt)  
 - Secure backend-only data access  
@@ -58,7 +58,7 @@ This README outlines the architecture, features, and development plan before imp
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 ### **Frontend**
 - ReactJS 18  
@@ -80,7 +80,7 @@ This README outlines the architecture, features, and development plan before imp
 
 ---
 
-## 📁 Project Structure (Planned)
+##  Project Structure (Planned)
 
 healthcare-portal/
 ├── frontend/
@@ -114,7 +114,7 @@ healthcare-portal/
 
 ---
 
-## 🔌 API Endpoints (Planned)
+##  API Endpoints (Planned)
 
 ### **Authentication**
 - `POST /api/auth/register`
@@ -138,7 +138,7 @@ healthcare-portal/
 
 ---
 
-## 🚀 Development Roadmap
+##  Development Roadmap
 
 ### **Phase 1 — Backend**
 - Initialize Express project  
@@ -168,7 +168,7 @@ healthcare-portal/
 
 ---
 
-## 📜 Status
+##  Status
 
 > This is a **pre-development README**.  
 > The project has not yet been built; this document defines the planned features, architecture, and development flow.
