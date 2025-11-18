@@ -81,7 +81,7 @@ This README outlines the architecture, features, and development plan before imp
 ---
 
 ##  Project Structure (Planned)
-
+```
 healthcare-portal/
 ├── frontend/
 │   ├── src/
@@ -113,7 +113,7 @@ healthcare-portal/
     ├── server.js
     └── package.json
 
-
+```
 
 
 ---
