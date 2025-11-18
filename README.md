@@ -78,10 +78,10 @@ This README outlines the architecture, features, and development plan before imp
 - MongoDB (MongoDB Atlas recommended)  
 - Mongoose ORM  
 
----
+```
 
 ##  Project Structure (Planned)
-```
+
 healthcare-portal/
 ├── frontend/
 │   ├── src/
@@ -112,11 +112,7 @@ healthcare-portal/
     │
     ├── server.js
     └── package.json
-
 ```
-
-
----
 
 ##  API Endpoints (Planned)
 
