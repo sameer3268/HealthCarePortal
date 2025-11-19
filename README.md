@@ -173,9 +173,5 @@ healthcare-portal/
 
 ---
 
-##  Status
-
-> This is a **pre-development README**.  
-> The project has not yet been built; this document defines the planned features, architecture, and development flow.
 
 ---
